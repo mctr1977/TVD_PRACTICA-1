@@ -1,5 +1,5 @@
 # TVD_PRACTICA-1
-Repositorio de docuementos y ficheros de la practica 1 de tipologia y visualización de datos (master ciencia de datos).
+Repositorio de documentos y ficheros de la practica 1 de tipologia y visualización de datos (master ciencia de datos).
 
 El grupo de esta practica está formado por María del Carmen Terrats Reviriego. 
 
